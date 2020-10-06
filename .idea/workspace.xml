@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="071942d1-8043-4757-84ac-d7b3d68497db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZMK0wyde5dINE1myDyqldrXsSF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/felipejinli" />
+      <recent name="$PROJECT_DIR$/Stereo Pairs/Pair 1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.felipejinli.Main" />
+      <module name="StereoAlgorithm" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="071942d1-8043-4757-84ac-d7b3d68497db" name="Default Changelist" comment="" />
+      <created>1584643303888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584643303888</updated>
+      <workItem from="1584643308846" duration="27976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1584653807064">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="748" y="244" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1057@0.23.1920.1057" timestamp="1584653807064" />
+    <state width="1668" height="147" key="GridCell.Tab.0.bottom" timestamp="1584721575783">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1668" height="147" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1584721575783" />
+    <state width="1668" height="147" key="GridCell.Tab.0.center" timestamp="1584721575782">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1668" height="147" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1584721575782" />
+    <state width="1668" height="147" key="GridCell.Tab.0.left" timestamp="1584721575782">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1668" height="147" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1584721575782" />
+    <state width="1668" height="147" key="GridCell.Tab.0.right" timestamp="1584721575783">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1668" height="147" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1584721575783" />
+    <state width="1767" height="357" key="GridCell.Tab.1.bottom" timestamp="1584706294573">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1767" height="357" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1584706294573" />
+    <state width="1767" height="357" key="GridCell.Tab.1.center" timestamp="1584706294572">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1767" height="357" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1584706294572" />
+    <state width="1767" height="357" key="GridCell.Tab.1.left" timestamp="1584706294572">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1767" height="357" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1584706294572" />
+    <state width="1767" height="357" key="GridCell.Tab.1.right" timestamp="1584706294573">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1767" height="357" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1584706294573" />
+    <state x="258" y="220" key="SettingsEditor" timestamp="1584709358812">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="258" y="220" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1584709358812" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584654776981">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1920.1057@0.23.1920.1057" timestamp="1584654776981" />
+    <state x="617" y="256" key="run.anything.popup" timestamp="1584708453124">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="617" y="256" key="run.anything.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1584708453124" />
+  </component>
+</project>
